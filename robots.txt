@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://kemall12342000-cell.github.io/zombi-arena/sitemap.xml
